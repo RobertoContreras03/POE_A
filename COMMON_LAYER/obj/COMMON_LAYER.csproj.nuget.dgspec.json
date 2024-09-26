@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Roberto Contreras\\Downloads\\PROGRAMACION ORIENTADA A EVENTOS\\COMMON_LAYER\\COMMON_LAYER.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Roberto Contreras\\Downloads\\PROGRAMACION ORIENTADA A EVENTOS\\COMMON_LAYER\\COMMON_LAYER.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Roberto Contreras\\Downloads\\PROGRAMACION ORIENTADA A EVENTOS\\COMMON_LAYER\\COMMON_LAYER.csproj",
+        "projectName": "COMMON_LAYER",
+        "projectPath": "C:\\Users\\Roberto Contreras\\Downloads\\PROGRAMACION ORIENTADA A EVENTOS\\COMMON_LAYER\\COMMON_LAYER.csproj",
+        "packagesPath": "C:\\Users\\Roberto Contreras\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Roberto Contreras\\Downloads\\PROGRAMACION ORIENTADA A EVENTOS\\COMMON_LAYER\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Roberto Contreras\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

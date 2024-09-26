@@ -1,0 +1,17 @@
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\BUSINESS_LAYER\bin\Debug\net7.0\BUSINESS_LAYER.deps.json
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\BUSINESS_LAYER\bin\Debug\net7.0\BUSINESS_LAYER.dll
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\BUSINESS_LAYER\bin\Debug\net7.0\BUSINESS_LAYER.pdb
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\BUSINESS_LAYER\bin\Debug\net7.0\COMMON_LAYER.dll
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\BUSINESS_LAYER\bin\Debug\net7.0\DATAACCESS_LAYER.dll
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\BUSINESS_LAYER\bin\Debug\net7.0\COMMON_LAYER.pdb
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\BUSINESS_LAYER\bin\Debug\net7.0\DATAACCESS_LAYER.pdb
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\BUSINESS_LAYER\obj\Debug\net7.0\BUSINESS_LAYER.csproj.AssemblyReference.cache
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\BUSINESS_LAYER\obj\Debug\net7.0\BUSINESS_LAYER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\BUSINESS_LAYER\obj\Debug\net7.0\BUSINESS_LAYER.AssemblyInfoInputs.cache
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\BUSINESS_LAYER\obj\Debug\net7.0\BUSINESS_LAYER.AssemblyInfo.cs
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\BUSINESS_LAYER\obj\Debug\net7.0\BUSINESS_LAYER.csproj.CoreCompileInputs.cache
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\BUSINESS_LAYER\obj\Debug\net7.0\BUSINESS_LAYER.csproj.CopyComplete
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\BUSINESS_LAYER\obj\Debug\net7.0\BUSINESS_LAYER.dll
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\BUSINESS_LAYER\obj\Debug\net7.0\refint\BUSINESS_LAYER.dll
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\BUSINESS_LAYER\obj\Debug\net7.0\BUSINESS_LAYER.pdb
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\BUSINESS_LAYER\obj\Debug\net7.0\ref\BUSINESS_LAYER.dll

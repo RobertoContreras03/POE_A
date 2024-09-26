@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "PRESENTATION_LAYER/1.0.0": {
+        "dependencies": {
+          "BUSINESS_LAYER": "1.0.0",
+          "COMMON_LAYER": "1.0.0"
+        },
+        "runtime": {
+          "PRESENTATION_LAYER.dll": {}
+        }
+      },
+      "BUSINESS_LAYER/1.0.0": {
+        "dependencies": {
+          "COMMON_LAYER": "1.0.0",
+          "DATAACCESS_LAYER": "1.0.0"
+        },
+        "runtime": {
+          "BUSINESS_LAYER.dll": {}
+        }
+      },
+      "COMMON_LAYER/1.0.0": {
+        "runtime": {
+          "COMMON_LAYER.dll": {}
+        }
+      },
+      "DATAACCESS_LAYER/1.0.0": {
+        "dependencies": {
+          "COMMON_LAYER": "1.0.0"
+        },
+        "runtime": {
+          "DATAACCESS_LAYER.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PRESENTATION_LAYER/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BUSINESS_LAYER/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "COMMON_LAYER/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DATAACCESS_LAYER/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

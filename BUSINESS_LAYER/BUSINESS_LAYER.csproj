@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\COMMON_LAYER\COMMON_LAYER.csproj" />
+    <ProjectReference Include="..\DATAACCESS_LAYER\DATAACCESS_LAYER.csproj" />
+  </ItemGroup>
+
+</Project>

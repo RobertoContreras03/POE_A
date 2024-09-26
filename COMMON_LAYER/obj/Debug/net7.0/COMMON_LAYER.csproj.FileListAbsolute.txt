@@ -1,0 +1,11 @@
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\COMMON_LAYER\bin\Debug\net7.0\COMMON_LAYER.deps.json
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\COMMON_LAYER\bin\Debug\net7.0\COMMON_LAYER.dll
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\COMMON_LAYER\bin\Debug\net7.0\COMMON_LAYER.pdb
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\COMMON_LAYER\obj\Debug\net7.0\COMMON_LAYER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\COMMON_LAYER\obj\Debug\net7.0\COMMON_LAYER.AssemblyInfoInputs.cache
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\COMMON_LAYER\obj\Debug\net7.0\COMMON_LAYER.AssemblyInfo.cs
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\COMMON_LAYER\obj\Debug\net7.0\COMMON_LAYER.csproj.CoreCompileInputs.cache
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\COMMON_LAYER\obj\Debug\net7.0\COMMON_LAYER.dll
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\COMMON_LAYER\obj\Debug\net7.0\refint\COMMON_LAYER.dll
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\COMMON_LAYER\obj\Debug\net7.0\COMMON_LAYER.pdb
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\COMMON_LAYER\obj\Debug\net7.0\ref\COMMON_LAYER.dll

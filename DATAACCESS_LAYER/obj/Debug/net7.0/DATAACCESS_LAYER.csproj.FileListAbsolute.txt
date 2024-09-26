@@ -1,0 +1,15 @@
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\DATAACCESS_LAYER\bin\Debug\net7.0\DATAACCESS_LAYER.deps.json
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\DATAACCESS_LAYER\bin\Debug\net7.0\DATAACCESS_LAYER.dll
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\DATAACCESS_LAYER\bin\Debug\net7.0\DATAACCESS_LAYER.pdb
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\DATAACCESS_LAYER\bin\Debug\net7.0\COMMON_LAYER.dll
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\DATAACCESS_LAYER\bin\Debug\net7.0\COMMON_LAYER.pdb
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\DATAACCESS_LAYER\obj\Debug\net7.0\DATAACCESS_LAYER.csproj.AssemblyReference.cache
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\DATAACCESS_LAYER\obj\Debug\net7.0\DATAACCESS_LAYER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\DATAACCESS_LAYER\obj\Debug\net7.0\DATAACCESS_LAYER.AssemblyInfoInputs.cache
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\DATAACCESS_LAYER\obj\Debug\net7.0\DATAACCESS_LAYER.AssemblyInfo.cs
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\DATAACCESS_LAYER\obj\Debug\net7.0\DATAACCESS_LAYER.csproj.CoreCompileInputs.cache
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\DATAACCESS_LAYER\obj\Debug\net7.0\DATAACCESS_LAYER.csproj.CopyComplete
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\DATAACCESS_LAYER\obj\Debug\net7.0\DATAACCESS_LAYER.dll
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\DATAACCESS_LAYER\obj\Debug\net7.0\refint\DATAACCESS_LAYER.dll
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\DATAACCESS_LAYER\obj\Debug\net7.0\DATAACCESS_LAYER.pdb
+C:\Users\Roberto Contreras\Downloads\PROGRAMACION ORIENTADA A EVENTOS\DATAACCESS_LAYER\obj\Debug\net7.0\ref\DATAACCESS_LAYER.dll
